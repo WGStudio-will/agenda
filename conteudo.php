@@ -16,7 +16,7 @@
             <div class="modal-footer">
                 <input type="hidden" id="contato_id" value="" />
                 <button type="button" id="excluir" class="btn btn-primary">Sim</button>
-                <button type="button" class="btn btn-default" data-dismiss="modal">N&atilde;o</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Não</button>
             </div>
         </div>
     </div>
